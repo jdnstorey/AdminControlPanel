@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AdminControlPanel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AdminControlPanel_jar</output-path>
+    <root id="archive" name="AdminControlPanel.jar">
+      <element id="module-output" name="AdminControlPanel" />
+    </root>
+  </artifact>
+</component>
